@@ -66,5 +66,5 @@ sizeBoxes.forEach(box => {
 });
 document.getElementById("return-to-study").addEventListener("click", function() {
     // Weiterleitung zur Studien-Website
-    window.location.href = "https://www.google.com";
+    window.location.href = "https://ww2.unipark.de/uc/Praxisprojekte/ace7/";
 });
